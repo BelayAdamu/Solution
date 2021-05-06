@@ -69,7 +69,7 @@ This are some of the css codes I was happy to have practiced on on this project
 ```
 ### Continued development
 
-I want to build more on my flexbox and css-grid scills.
+I want to build more on my flexbox and css-grid skills.
 
 
 ### Useful resources
