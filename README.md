@@ -35,7 +35,7 @@ https://github.com/BelayAdamu/Solution/blob/321a115c3201b927cec763424e69863422fd
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/BelayAdamu/chat-app-css-illustration-master.git)
+- Solution URL: [Solution URL](https://github.com/BelayAdamu/Solution.git)
 - Live Site URL: [Live site URL](https://belayadamu.github.io/Solution/)
 
 ## My process
