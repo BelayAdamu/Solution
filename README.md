@@ -35,8 +35,8 @@ https://github.com/BelayAdamu/Solution/blob/321a115c3201b927cec763424e69863422fd
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/BelayAdamu/chat-app-css-illustration-master.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/BelayAdamu/chat-app-css-illustration-master.git)
+- Live Site URL: [Live site URL](https://belayadamu.github.io/Solution/)
 
 ## My process
 
@@ -85,8 +85,6 @@ for anyone trying to master css. This helped me sharpen my knowledge on how heig
 - Frontend Mentor - [@BelayAdamu](https://www.frontendmentor.io/profile/BelayAdamu)
 - Linkedin - [Belay Adamu](https://www.linkedin.com/in/belay-adamu-442b26149)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
 ## Acknowledgments
 
-I Would like to acknowledge Front-end Mentors for their valuable resources that they provide for developers like me who are looking to improve their skills. And would very much love to acknowledge Coursera.org for their generousity in letting me enroll on their quality paid courses for free and sweeping a path for me on my journey to become a front end developer. 
+I Would like to acknowledge Front-end Mentors for their valuable resources that they provide for developers like me who are looking to improve their skills. And would very much love to acknowledge [Coursera](http://www.coursera.org) for their generousity in letting me enroll on their quality paid courses for free and sweeping a path for me on my journey to become a front end developer. 
