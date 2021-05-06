@@ -145,6 +145,7 @@ body{
 }
 .right-side{
     justify-content: end;
+    -webkit-justify-content: flex-end;
 }
 .right-side img {
     width: 20%;
