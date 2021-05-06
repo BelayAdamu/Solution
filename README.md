@@ -83,7 +83,7 @@ for anyone trying to master css. This helped me sharpen my knowledge on how heig
 
 - Facebook - [Belay Adamu](http://facebook.com/belay.adamu.96)
 - Frontend Mentor - [@BelayAdamu](https://www.frontendmentor.io/profile/BelayAdamu)
-- Linkedin - [Belay Adamu](linkedin.com/in/belay-adamu-442b26149)
+- Linkedin - [Belay Adamu](https://www.linkedin.com/in/belay-adamu-442b26149)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
