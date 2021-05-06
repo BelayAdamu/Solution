@@ -1,0 +1,243 @@
+body{
+    font-family: 'Rubik', sans-serif;
+    overflow-x: hidden;
+    padding-bottom: 2%;
+}
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.backPic-1{
+    width: 40%;
+    padding-top: 40.6%;
+    position: absolute;
+    top: 0%;
+    left: -15%;
+    background-image: linear-gradient(to bottom, hsl(293, 100%, 63%), hsl(264, 100%, 61%));
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    z-index: -1;
+}
+.backPic-2{
+    width: 40%;
+    padding-top: 40.6%;
+    position: absolute;
+    bottom: 0%;
+    right: -20%;
+    background-color: rgb(248, 244, 248);
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    z-index: -1;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    flex-direction: row;
+}
+
+.phone {
+    min-width: 300px;
+    margin-top: 5%;
+    width: 20%;
+    border-radius: 25px;
+    background-color: floralwhite;
+    height: initial;
+    box-shadow: 5px 5px 40px gray;
+    user-select: none;
+}
+.phone-screen{
+    background-color: hsl(270, 20%, 96%);
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border-radius: 15px;
+    padding-bottom: 1%;
+}
+
+.text_content{
+    width: 35%;
+    margin-left: 10%;
+    margin-top: 22%;
+}
+.text_content > h1{
+    color: hsl(271, 36%, 24%);
+}
+.text_content > p {
+    color: hsl(270, 7%, 64%);
+    margin-top: 5%;
+}
+.app-header{
+    width: 100%;
+    padding-bottom: 2.5%;
+    border-top-left-radius:15px;
+    border-top-right-radius:15px;
+    background-image: linear-gradient(to right, hsl(264, 100%, 61%), hsl(293, 100%, 63%));
+}
+.notch-area{
+    width: 56%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    padding: 4%;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.header-content{
+    margin-top: 5px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: transparent;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    
+}
+.fulfula {
+    color: white;
+    margin-left: 10px;
+    margin-right: 5px;
+}
+.img-container{
+    width: 15%;
+    margin: 0 5px;
+}
+.avatar {
+    width: 100%;
+    height: auto;
+    border-radius: 25px;
+    border-color: white;
+    border-style: solid;
+    border-width: 2px;
+}
+.samuel{
+    flex-grow: 9;
+}
+.name{
+    color: white;
+    font-size: 13px;
+}
+.status{
+    color: hsl(276, 100%, 81%);
+    font-size: 10px;
+}
+
+.chat-messages{
+    border-radius: 5px;
+    margin-top: 2.5%;
+    margin-left: 5%;
+    padding: 3% 5%;
+    color: hsl(276, 55%, 52%);
+    font-size: 10px;
+    max-width: 70%;
+    background-color:  rgb(231, 225, 225);
+}
+
+.right-side, .left-side {
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+.right-side{
+    justify-content: end;
+}
+.right-side img {
+    width: 20%;
+    border-radius: 10px;
+    height: auto;
+    margin: 5% 2% 0 2%;
+}
+.rs {
+    background-color: white;
+    color: hsl(271, 15%, 43%);
+    margin-right: 5%;
+}
+.left-side{
+    align-items: center;
+    color: white;
+    background-image: linear-gradient(to right, hsl(293, 100%, 63%), hsl(264, 100%, 61%));
+    margin: 2.5% 0% 0% 5%;
+    width: 70%;
+    justify-content: start;
+    margin-bottom: 5%;
+    border-radius: 5px;
+}
+.circle{
+    margin: 5%;
+    width: 5%;
+    padding: 5%;
+    border-radius: 25px;
+    border-color: hsl(276, 100%, 81%);
+    border-style: solid;
+    border-width: 2px;
+}
+.walk-length{
+    width: 45%;
+    font-size: 10px;
+    margin: 5%;
+    margin-left: 2%;
+    margin-right: 10%;
+}
+.send-msg{
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    border-radius: 25px;
+    background-color: floralwhite;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 5%;
+    margin: 5%;
+}
+.msg{
+    font-size: 14px;
+    color: hsl(271, 36%, 24%);
+}
+.send-btn{
+    background-color: hsl(271, 36%, 24%);
+    width: 5%;
+    padding-right: 6%;
+    padding-left: 3%;
+    margin-right: 5%;
+    border-radius: 25px;
+    border-color: hsl(276, 100%, 81%);
+    border-style: solid;
+    border-width: 2px;
+    justify-self: end;
+}
+
+@media only screen and (max-width: 750px) {
+    .flex-container{
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        flex-direction: column;
+    }
+    .phone{
+      align-self: center;
+    }
+    .text_content{
+        width: 80%;
+        text-align: center;
+    }
+    .backPic-1{
+        width: 90%;
+        padding-top: 100%;
+        position: absolute;
+        top: 0%;
+        left: -35%;
+        background-image: linear-gradient(to bottom, hsl(293, 100%, 63%), hsl(264, 100%, 61%));
+        border-bottom-left-radius: 50%;
+        border-bottom-right-radius: 50%;
+        z-index: -1;
+    }
+    .backPic-2{
+      display: none;
+    }
+}
+
