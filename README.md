@@ -87,4 +87,4 @@ for anyone trying to master css. This helped me sharpen my knowledge on how heig
 
 ## Acknowledgments
 
-I Would like to acknowledge Front-end Mentors for their valuable resources that they provide for developers like me who are looking to improve their skills. And would very much love to acknowledge [Coursera](http://www.coursera.org) for their generousity in letting me enroll on their quality paid courses for free and sweeping a path for me on my journey to become a front end developer. 
+I Would like to acknowledge Front-end Mentors for the valuable resources they provide for developers like me who are looking to improve their skills. And I would very much love to acknowledge [Coursera](http://www.coursera.org) for their generousity in letting me enroll on their quality paid courses for free and sweeping a path for me on my journey to become a front end developer. 
